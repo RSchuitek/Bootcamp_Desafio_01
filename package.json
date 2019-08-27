@@ -1,0 +1,17 @@
+{
+  "name": "Bootcamp_Desafio_01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RSchuitek/Bootcamp_Desafio_01.git",
+  "author": "Luiz Rodrigo Schuitek <rodrigoschuitek@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
